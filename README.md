@@ -6,3 +6,5 @@ Step 2. enter a sand eg. thisyearis2020
 Final password would be: RcD9JNT9H'
 Save simple passwords in a file, never save the sand anywhere. 
 This way, final passwords would be complicated enough but we can always just memorize simple ones. 
+
+The new password will be automatically copied to clipboard for pasting to a target place.
